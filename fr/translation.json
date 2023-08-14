@@ -7,7 +7,7 @@
     "Authenticate": "S'authentifier",
     "Back": "Retour",
     "BecomeAPatron": "Devenez un Patron !",
-    "Browse": "🦘 Browse",
+    "Browse": "Parcourir",
     "Cancel": "Annuler",
     "Close": "Fermer",
     "Collapse": "Réduire",
@@ -54,7 +54,7 @@
     "Unlock": "Déverrouiller",
     "UserReady": "Allons-y!",
     "ViewHistoricalData": "Voir les données historiques",
-    "ViewMore": "🦘 View More"
+    "ViewMore": "Voir plus"
   },
   "Activity": {
     "ActiveRotator": "Rotation active",
@@ -200,7 +200,7 @@
       "Description": "Ce sont les comptes actuellement associées à votre profil Bungie.net.",
       "Name": "Comptes associés"
     },
-    "PatronOnlyFeature": "🦘 This is a patron-only feature. Some features are made possible only with patron support. Learn more at [https://patreon.com/braytech](https://patreon.com/braytech).",
+    "PatronOnlyFeature": "Ceci est une fonctionnalité réservée aux mécènes. Certaines fonctionnalités deviennent possibles uniquement grâce au soutien des mécènes. En savoir plus sur [https://patreon.com/braytech](https://patreon.com/braytech).",
     "PatreonAssociation": {
       "Description": "Associez ce profil Bungie.net à un compte Patreon",
       "Name": "Connexion à Patreon",
@@ -283,18 +283,18 @@
       "NoParters": "Personne n'a dit que les rencontres étaient faciles. Retournez au combat, gardien!",
       "Options": {
         "LimitCurrentSeason": {
-          "Description": "🦘 Only load activities from the current season.",
-          "Name": "🦘 Current Season"
+          "Description": "Charger uniquement les activités de la saison en cours.",
+          "Name": "Saison en cours"
         },
         "LimitGroupMembers": {
-          "Description": "🦘 Filter encounters and fireteams to only include members of your clan.",
-          "Name": "🦘 Clan Members"
+          "Description": "Filtrer les rencontres et les équipes pour inclure uniquement les membres de votre clan.",
+          "Name": "Membres du Clan"
         }
       },
       "RomanticPartnerships": "Partenariats romantiques",
       "SocialButterfly": "Vous bougez ! Vous avec joué avec tout le monde cette saison.",
-      "TopFireteams": "🦘 Top {{number}} Fireteam Compositions",
-      "TopFriends": "🦘 Top {{number}} Friends by Activities Played",
+      "TopFireteams": "Top {{number}} Compositions d'escouades",
+      "TopFriends": "Top {{number}} Amis par Activités Jouées",
       "UndiscoveredFriends": "Amis méconnus"
     },
     "RewardEngrams": "Engramme de récompense",
@@ -371,20 +371,20 @@
     "Challenge": "Défi",
     "Challenge_plural": "Défis",
     "Character": "Personnage",
-    "BrowseNthMembers_plural": "🦘 Browse {{number}} Members",
+    "BrowseNthMembers_plural": "Parcourir {{number}} Membres",
     "CharacterClass": "Classe du personnage",
     "CharacterLight": "Puissance du personnage",
     "CharacterSpecific": "Comme pour la plupart des fonctions Braytech, cette vue est spécifique à un personnage.",
     "Character_plural": "Personnages",
     "Checklists": "Listes importantes",
     "Clan": "Clan",
-    "ClanMember": "🦘 Clan Member",
-    "ClanMember_plural": "🦘 Clan Members",
+    "ClanMember": "Membre du Clan",
+    "ClanMember_plural": "Membres du Clan",
     "ClanMembersNth_plural": "Membres de clan",
     "Classified": "Classifié",
     "Collectibles": "Récompenses",
     "Collections": "Collections",
-    "CollectionsScore": "🦘 Collections Score",
+    "CollectionsScore": "Score de Collections",
     "CommendationAbr_plural": "Élog.",
     "Completed": "Complétés",
     "CruciblePlaylist": "Programme de l'Épreuve",
@@ -406,12 +406,12 @@
     "FireteamMembers": "Membres d'escouade",
     "FireteamReserves": "Réserves",
     "FireteamSize": "Taille de l'escouade",
-    "Friend": "🦘 Friend",
+    "Friend": "Ami",
     "Friend_plural": "Amis",
     "GloryPoints": "Points de Gloire",
     "GuardianRank": "Rang de Gardien",
     "Guardians": "Gardiens",
-    "Help": "🦘 Help",
+    "Help": "Aide",
     "HistoricalStats": "Stats historiques",
     "InfamyPoints": "Points d'Infamie",
     "Inspect": "Inspecter",
@@ -430,7 +430,7 @@
     "NothingHereYet": "Il n'y a encore rien ici",
     "Objectives": "Objectifs",
     "Offline": "Hors ligne",
-    "Patreon": "🦘 Patreon",
+    "Patreon": "Patreon",
     "Patron_plural": "Patrons",
     "Player": "Joueur",
     "Preview": "Prévisualisation",
@@ -461,7 +461,7 @@
     "SpecialCommendationAbr_plural": "Éloges spéc.",
     "SpecialCommendation_plural": "Éloges spéciales",
     "Submit": "Envoyer",
-    "Support": "🦘 Support",
+    "Support": "Support",
     "TimePlayed": "Temps de jeu",
     "TimeRemaining": "Temps restant",
     "Translator_plural": "Traducteurs",
@@ -614,10 +614,10 @@
   },
   "Language": {
     "Space": {
-      "MetresAbr": "🦘 1 Mtr",
+      "MetresAbr": "1 m",
       "MetresAbr_plural": "{{count}} m",
-      "WeightAbr": "🦘 {{count}} Kg",
-      "WeightAbr_plural": "🦘 {{count}} Kg"
+      "WeightAbr": "{{count}} Kg",
+      "WeightAbr_plural": "{{count}} Kg"
     },
     "Time": {
       "Frequency": {
@@ -631,9 +631,9 @@
     }
   },
   "Leaderboards": {
-    "Rank": "🦘 Rank",
-    "Global": "🦘 Global",
-    "Statistics": "🦘 Statistics",
+    "Rank": "Rang",
+    "Global": "Global",
+    "Statistics": "Statistiques",
     "ActiveScore": "🦘 Active Score",
     "LegacyScore": "🦘 Legacy Score",
     "TriumphScore": "🦘 Triumph Score",
